@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Pushpendu Maity 👋
 
-<!--
-**Pushpendu-Maity/Pushpendu-Maity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I guess you’re curious about me because i analyse data.
+---
+If you are interested on me then you can ping me via
+## 🔗 Find me online
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐦 Twitter (X): https://x.com/maity28747
+
+
+---
+
+
+---
+
+⭐ Feel free to check out my repositories and connect with me!
